@@ -167,7 +167,7 @@ def plot_data(data: pd.DataFrame, dropdown_selection, log, amount_results):
             df_genders_amount,
             x=df_genders_amount.index,
             y=lines,
-            title="Gender Distribution of OS Competitors over time",
+            title="Gender Distribution of Olympic Competitors over time",
             labels={"variable": "Amount", "value": "Amount"},
             log_y=log,
         )
