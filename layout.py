@@ -33,10 +33,10 @@ class Layout:
                                     className="dropdown",
                                     options=[
                                         "Medals USA",
-                                        # "Medals Basketball",
+                                        "Medals Basketball",
                                         "Medals Boxing",
-                                        # "Medals Football",
-                                        # "Medals Ice Hockey",
+                                        "Medals Football",
+                                        "Medals Ice Hockey",
                                         "Gender Distribution",
                                     ],  # set this to variable value
                                     value="Medals USA",  # default value of dropdown
